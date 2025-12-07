@@ -214,3 +214,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# PyCharm / IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Базы данных
+*.sqlite3
+*.db
+*.sqlite
+
+# Системные файлы
+.DS_Store
+Thumbs.db
